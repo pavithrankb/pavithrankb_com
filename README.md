@@ -1,6 +1,6 @@
 # Pavithran KB - Personal Website
 
-A minimal, Apple-style personal portfolio website built with pure HTML, CSS, and JavaScript.
+A minimal, personal portfolio website built with pure HTML, CSS, and JavaScript.
 
 ## Features
 
